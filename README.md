@@ -1,5 +1,5 @@
  <div style="background-color: rgba(255, 255, 255, 0.8); padding: 20px; border-radius: 10px;">
-  <img align="center" alt="Coding" width="400" src="https://images.unsplash.com/photo-1504639725590-34d0984388bd?q=80&w=1974&auto=format&fit=crop&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D">
+
     <h1 align="center">Hi 👋, I'm Chetan Ashtankar</h1>
   </div>
 <h3 align="center">A Passionate Backend Developer from India</h3>
