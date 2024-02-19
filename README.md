@@ -1,5 +1,5 @@
  <div style="background-color: rgba(255, 255, 255, 0.8); padding: 20px; border-radius: 10px;">
-  <img align="top" alt="Coding" width="400" src="https://raw.githubusercontent.com/punitkmryh/punitkmryh/master/Developer.gif">
+  <img align="center" alt="Coding" width="400" src="https://unsplash.com/photos/closeup-photo-of-eyeglasses-w7ZyuGYNpRQ">
     <h1 align="center">Hi 👋, I'm Chetan Ashtankar</h1>
   </div>
 <h3 align="center">A Passionate Backend Developer from India</h3>
