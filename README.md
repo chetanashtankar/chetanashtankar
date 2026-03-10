@@ -1,10 +1,10 @@
 <h1 align="center" style="font-family: serif;"><strong><em>Hi 👋, I'm Chetan Ashtankar</em></strong></h1>
-<h3 align="center">A Passionate Associate Software Engineer from India</h3>
+<h3 align="center">A Passionate Software Engineer from India</h3>
 <img align="right" alt="Coding" width="450" src="https://images.squarespace-cdn.com/content/v1/5769fc401b631bab1addb2ab/1541580611624-TE64QGKRJG8SWAIUS7NS/ke17ZwdGBToddI8pDm48kPoswlzjSVMM-SxOp7CV59BZw-zPPgdn4jUwVcJE1ZvWQUxwkmyExglNqGp0IvTJZamWLI2zvYWH8K3-s_4yszcp2ryTI0HqTOaaUohrI8PI6FXy8c9PWtBlqAVlUS5izpdcIXDZqDYvprRqZ29Pw0o/coding-freak.gif" /> </p>
 
 <p align="left"> <a href="https://twitter.com/" target="blank"><img src="https://img.shields.io/twitter/follow/?logo=twitter&style=for-the-badge" alt="" /></a> </p>
 
-- 🌱 I’m currently learning **microservices**
+- 🌱 I’m currently learning **Agentic AI**
 - 💬 Ask me about **Frontend and Backend Project**
 - 📫 How to reach me **chetanashtankar9@gmail.com**
 - ⚡ Fun fact **I am creative**
