@@ -98,9 +98,9 @@ Fun Fact   : I'm creative — I see bugs as unfinished features 🐛✨
 
 <br/>
 
-<div align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=chetanashtankar&theme=darkhub&no-frame=true&no-bg=true&row=1&column=6&margin-w=8" />
-</div>
+<p align="center">
+  <img src="https://github-profile-trophy.vercel.app/?username=chetanashtankar&theme=darkhub&margin-w=15&margin-h=15" />
+</p>
 
 ---
 
