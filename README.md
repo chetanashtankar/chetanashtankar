@@ -27,5 +27,4 @@
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=chetanashtankar&show_icons=true&locale=en" alt="chetanashtankar" /></p>
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=chetanashtankar&" alt="chetanashtankar" /></p>
-![Spring](https://img.icons8.com/color/48/000000/spring.png) ![Microservices](https://img.icons8.com/color/48/000000/microservices.png)
+
